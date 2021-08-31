@@ -1,0 +1,7 @@
+{
+    "serverPort":5000,
+    "DB_URL":"mongodb+srv://admin:admin@cloud-disk.z2vir.mongodb.net/cloud?retryWrites=true&w=majority",
+    "secretKey": "secretZahard",
+    "filePath":"C:\\Users\\ZaHard\\OneDrive\\Рабочий стол\\myProjects\\CloudMern\\server\\files",
+    "staticPath":"C:\\Users\\ZaHard\\OneDrive\\Рабочий стол\\myProjects\\CloudMern\\server\\static"
+}
